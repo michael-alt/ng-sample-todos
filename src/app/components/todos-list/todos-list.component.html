@@ -1,0 +1,6 @@
+<ul class="todo-list">
+  <todos-item
+    *ngFor="let t of todos$ | async; trackBy: trackById"
+    [todo]="t"
+  ></todos-item>
+</ul>
