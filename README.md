@@ -1,3 +1,3 @@
-# Project: NgTemplate
+# Project: Todos
 
-> Angular Template Repository
+> Angular Implementation for https://todomvc.com
